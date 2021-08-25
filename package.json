@@ -1,0 +1,18 @@
+{
+  "name": "bellhorn",
+  "version": "1.0.0",
+  "description": "asdf",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "babagoosh"
+  ],
+  "author": "eljawn",
+  "license": "ISC",
+  "dependencies": {
+    "bootstrap": "^5.1.0",
+    "lodash": "^4.17.21"
+  }
+}
